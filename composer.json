@@ -2,7 +2,7 @@
     "name": "ilgianlu/packtest",
     "autoload": {
         "psr-4": {
-            "Packtest\\": "src/"
+            "ilgianlu\\Packtest\\": "src/"
         }
     },
     "authors": [

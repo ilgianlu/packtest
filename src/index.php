@@ -1,8 +1,9 @@
 <?php
 
-namespace Packtest;
-
-require __DIR__ . '/../vendor/autoload.php';
+namespace ilgianlu\Packtest;
 
 class MyClass {
+    public function dump($var) {
+        var_dump($var);
+    }
 }
