@@ -11,5 +11,7 @@
             "email": "magni.c-@legrand-ext.com"
         }
     ],
-    "require": {}
+    "require": {
+        "markrogoyski/math-php": "^2.6"
+    }
 }
