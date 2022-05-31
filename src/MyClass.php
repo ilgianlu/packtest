@@ -1,6 +1,6 @@
 <?php
 
-namespace ilgianlu\Packtest;
+namespace Packtest;
 
 class MyClass {
     public function dump($var) {
