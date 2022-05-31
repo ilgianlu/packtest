@@ -10,6 +10,6 @@ class MyClass {
     }
 
     public function doMath($num) {
-        $gcd = Algebra::gcd(8, $num);
+        return Algebra::gcd(8, $num);
     }
 }
